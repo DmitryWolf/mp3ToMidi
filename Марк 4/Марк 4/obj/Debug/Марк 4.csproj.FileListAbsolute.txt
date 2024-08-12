@@ -1,0 +1,114 @@
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\Марк 4.exe.config
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\Марк 4.exe
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\Марк 4.pdb
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\WindowsInput.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\WindowsInput.xml
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк 4.csprojAssemblyReference.cache
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк_4.Form1.resources
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк_4.Properties.Resources.resources
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.GenerateResource.cache
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CoreCompileInputs.cache
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CopyComplete
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк 4.exe
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\obj\Debug\Марк 4.pdb
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.Asio.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.Core.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.Midi.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.WinForms.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.WinMM.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\NAudio.xml
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hunte\source\repos\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\Марк 4.exe.config
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\Марк 4.exe
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\Марк 4.pdb
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.Asio.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.Core.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.Midi.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.WinForms.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.WinMM.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\WindowsInput.dll
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\NAudio.xml
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\bin\Debug\WindowsInput.xml
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк 4.csprojAssemblyReference.cache
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк_4.Form1.resources
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк_4.Properties.Resources.resources
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.GenerateResource.cache
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CoreCompileInputs.cache
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CopyComplete
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк 4.exe
+C:\Users\Hunte\Desktop\Судный день\Марк 4\Марк 4\obj\Debug\Марк 4.pdb
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Марк 4.exe.config
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Марк 4.exe
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Марк 4.pdb
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Asio.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Core.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Midi.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Wasapi.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.WinForms.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.WinMM.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\WindowsInput.dll
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.xml
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.xml
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.xml
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\WindowsInput.xml
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.AssemblyReference.cache
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк_4.Form1.resources
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк_4.Properties.Resources.resources
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.GenerateResource.cache
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CoreCompileInputs.cache
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CopyComplete
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.exe
+D:\Desktop\Проги\Школа\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.pdb
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Марк 4.exe.config
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Марк 4.exe
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Марк 4.pdb
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Asio.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Core.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Midi.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.Wasapi.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.WinForms.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.WinMM.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\WindowsInput.dll
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\NAudio.xml
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.AccessControl.xml
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\System.Security.Principal.Windows.xml
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\bin\Debug\WindowsInput.xml
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.AssemblyReference.cache
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк_4.Form1.resources
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк_4.Properties.Resources.resources
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.GenerateResource.cache
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CoreCompileInputs.cache
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.csproj.CopyComplete
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.exe
+D:\Desktop\Progi\School\Project-10\JudgmentDay\Марк 4\Марк 4\obj\Debug\Марк 4.pdb
