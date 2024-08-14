@@ -1,4 +1,6 @@
 # Console version of this project
+## Usage
+You should put MP3 or WAV files (other permissions will be ignored) in a separate folder (initially input). Files in the mid format will be saved in another folder (initially output).
 
 ## Instalation
 First of all, you have to write this command to the terminal
